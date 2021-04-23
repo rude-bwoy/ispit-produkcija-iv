@@ -53,7 +53,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST') {
 
     <hr>
     <br>
-
+    <h2>Dodano novo</h2>
 
     <?php if(!empty($message)) {echo $message; } ?>
         <form action="" method="post">
