@@ -90,6 +90,8 @@ if($_SERVER['REQUEST_METHOD'] == 'POST') {
             <?php endif; ?>
         </table>
 
-
+<br><br><br><br><br>
+    
+    ovo je poruka predavača!
 </body>
 </html>
