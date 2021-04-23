@@ -1,0 +1,11 @@
+{
+    "name": "iv/ispit",
+    "description": "ispit produkcija",
+    "license": "MIT",
+    "require": {
+        "php" : ">=7.3"
+    },
+    "require-dev": {
+        "phpunit/phpunit" : "^9"
+    }
+}
