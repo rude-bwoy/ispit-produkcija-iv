@@ -54,6 +54,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST') {
     <hr>
     <br>
     <h2>Dodano novo</h2>
+    <h3>Dodano opet nešto novo</h3>
 
     <?php if(!empty($message)) {echo $message; } ?>
         <form action="" method="post">
